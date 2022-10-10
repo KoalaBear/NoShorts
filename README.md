@@ -12,7 +12,11 @@
 <h3  align="center">NoShorts!</h3>
 <p  align="center">
 Free yourself from Youtube Shorts.
+<br/>
+**Simple & Short code, No Tricks. Don't be afraid, you can read and understand it all. This is not another Open Source robust extension that you should be afraid of as you cant read it all.**
+</br>
 This chrome extension will redirect all of your desired Youtube Shorts, to their twin-normal Youtube Player page!
+<br/>
 And will do so as well on the General 'Shorts' page of YouTube, so save your precious time from mindless short-video scrolling.
 
 <br  />
@@ -20,7 +24,7 @@ And will do so as well on the General 'Shorts' page of YouTube, so save your pre
 <a  href="https://github.com/KoalaBear/NoShorts"><strong>Explore the repo »</strong></a>
 
 
-<a  href="https://github.com/KoalaBear/NoShorts">Chrome Webstore</a> · <a  href="https://github.com/KoalaBear/NoShorts/issues">Report Bug</a> · <a  href="https://github.com/KoalaBear/NoShorts/issues">Request Feature</a>
+<a  href="https://github.com/KoalaBear/NoShorts">Chrome Webstore (not-yet posted)</a> · <a  href="https://github.com/KoalaBear/NoShorts/issues">Report Bug</a> · <a  href="https://github.com/KoalaBear/NoShorts/issues">Request Feature</a>
 <br />
 
 <br />
