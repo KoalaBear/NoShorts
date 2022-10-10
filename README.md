@@ -21,17 +21,7 @@ And will do so as well on the General 'Shorts' page of YouTube, so save your pre
 
 <br  />
 
-<br  />
-
-<a  href="https://github.com/KoalaBear/NoShorts">Chrome Webstore</a>
-
-·
-
-<a  href="https://github.com/KoalaBear/NoShorts/issues">Report Bug</a>
-
-·
-
-<a  href="https://github.com/KoalaBear/NoShorts/issues">Request Feature</a>
+<a  href="https://github.com/KoalaBear/NoShorts">Chrome Webstore</a> · <a  href="https://github.com/KoalaBear/NoShorts/issues">Report Bug</a> · <a  href="https://github.com/KoalaBear/NoShorts/issues">Request Feature</a>
 </p>
 </div>
 
