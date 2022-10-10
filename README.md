@@ -9,9 +9,9 @@
 
 
 
-<h3  align="center">NoShorts!</h3>
+<h1  align="center">NoShorts!</h1>
 <p  align="center">
-Free yourself from Youtube Shorts.
+<h3>Free yourself from Youtube Shorts.</h3>
 <br/>
 -<br/>
 This chrome extension will redirect all of your desired Youtube Shorts, to their twin-normal Youtube Player page!
