@@ -18,9 +18,19 @@ And will do so as well on the General 'Shorts' page of YouTube, so save your pre
 <br  />
 
 <a  href="https://github.com/KoalaBear/NoShorts"><strong>Explore the repo »</strong></a>
+
+<br />
 <a  href="https://github.com/KoalaBear/NoShorts">Chrome Webstore</a> · <a  href="https://github.com/KoalaBear/NoShorts/issues">Report Bug</a> · <a  href="https://github.com/KoalaBear/NoShorts/issues">Request Feature</a>
 <br />
+
 <br />
+
+<br />
+
+<br />
+
+<br />
+
 <br />
 </p>
 </div>
