@@ -1,21 +1,16 @@
 {
   "name": "NoShorts",
-  "description": "Redirects all Youtube Shorts pages to their twin-Regular Youtube Video page. Without changing the general shorts browsing page",
+  "description": "Free yourself from Youtube Shorts",
   "homepage_url": "https://github.com/KoalaBear/NoShorts",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "manifest_version": 3,
-  "content_scripts": [
-    {
-      "run_at" : "document_start",
-      "js": ["on_load.js"],
-      "matches": [
-        "https://*.youtube.com/shorts/*"
-      ]
-    }
-  ],
   "permissions": [
-    "scripting"
-  ],
+      "tabs",
+      "scripting"
+    ],
+  "background": {
+      "service_worker": "background.js"
+    },
   "host_permissions": [
     "https://*.youtube.com/shorts/*"
   ]
