@@ -1,0 +1,22 @@
+{
+  "name": "NoShorts",
+  "description": "Redirects all Youtube Shorts pages to their twin-Regular Youtube Video page. Without changing the general shorts browsing page",
+  "homepage_url": "https://github.com/KoalaBear/NoShorts",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "run_at" : "document_start",
+      "js": ["on_load.js"],
+      "matches": [
+        "https://*.youtube.com/shorts/*"
+      ]
+    }
+  ],
+  "permissions": [
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://*.youtube.com/shorts/*"
+  ]
+}
