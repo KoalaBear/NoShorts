@@ -19,6 +19,7 @@ This chrome extension will redirect all of your desired Youtube Shorts, to their
 And will do so as well on the General 'Shorts' page of YouTube, so save your precious time from mindless short-video scrolling.
 <br />
 -
+<br />
 <i>Simple & Short code, No Tricks. 
 <br/>
 Don't be afraid, you can read and understand it all. This is not another Open Source robust extension that you should be afraid of as you cant read it all.</i>
