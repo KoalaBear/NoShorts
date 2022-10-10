@@ -13,11 +13,16 @@
 <p  align="center">
 Free yourself from Youtube Shorts.
 <br/>
-<i>Simple & Short code, No Tricks. Don't be afraid, you can read and understand it all. This is not another Open Source robust extension that you should be afraid of as you cant read it all.</i>
-</br>
+-<br/>
 This chrome extension will redirect all of your desired Youtube Shorts, to their twin-normal Youtube Player page!
 <br/>
 And will do so as well on the General 'Shorts' page of YouTube, so save your precious time from mindless short-video scrolling.
+<br />
+-
+<i>Simple & Short code, No Tricks. 
+<br/>
+Don't be afraid, you can read and understand it all. This is not another Open Source robust extension that you should be afraid of as you cant read it all.</i>
+</br>
 
 <br  />
 
